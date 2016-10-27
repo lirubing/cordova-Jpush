@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 ###Jpush使用说明
 ### 下载说明
 * 下载插件源代码
@@ -164,3 +165,7 @@ Jpush.setTagsAndAlias();
       <preference name="fireDate" value= "$fireDate"/>
 #####更多插件请点击：[fami2u](https://github.com/fami2u)
 #####关于我们：[FAMI](http://fami2u.com)
+=======
+# cordova-Jpush
+cordova-Jpush
+>>>>>>> 630ade4558b9b1faed04f5d973a4d5274252b00e
